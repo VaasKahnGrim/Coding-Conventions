@@ -5,5 +5,5 @@ Official coding conventions for Glorified Studios.
 
 ## Languages
 
-- [Lua/README.md](Lua)
-- [CSharp/README.md](C#)
+- [Lua](Lua)
+- [CSharp](CSharp)
