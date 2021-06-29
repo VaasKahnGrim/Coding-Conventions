@@ -1,5 +1,7 @@
 
-# Lua
+# Glorified Studios Coding Conventions
+
+## Lua
 
 The following are a set of guidelines for programming Lua-related content for Glorified Studios:
 
