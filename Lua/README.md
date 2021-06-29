@@ -3,9 +3,9 @@
 
 ## Lua
 
-The following are a set of guidelines for programming Lua-related content for Glorified Studios:
+The following are a set of guidelines for programming Lua related content:
 
-- Indentation should be 4 wide spaces.
+- Indentation should be 4 width spaces.
 - Variables are to be formatted as follows:
   - GlobalVars *(including keys of tables, example Table.Key)*
   - localVars
