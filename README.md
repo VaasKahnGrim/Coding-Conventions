@@ -7,3 +7,4 @@ Official coding conventions for Glorified Studios.
 
 - [Lua](Lua)
 - [C#](CSharp)
+- [C++](C++)
